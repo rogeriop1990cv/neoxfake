@@ -1,0 +1,16 @@
+body {
+  background-color: #070212;
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
+
+header  {
+  background-color: #070212;
+  padding: 20px;
+  height: 120px;
+}
+
+.navbar-sub {
+  background-color: #040C30;
+  height: 60px;
+}
